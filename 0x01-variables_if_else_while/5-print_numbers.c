@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - Entry point
- * Description: 'print numbers of base 10'
- * Retrun: Alwyas 0
+ * main - Prints numbers from 0 to 9.
+ * Description: 'main value prints single digits in number bases'
+ * Retrun: always 0 (success)
  */
 int main(void)
 {
